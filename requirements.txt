@@ -6,6 +6,5 @@ statsmodels==0.13.5
 Cython==0.29.36
 joblib==1.2.0
 pmdarima==2.0.3
-
 streamlit==1.35.0
 matplotlib==3.7.1
